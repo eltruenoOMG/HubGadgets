@@ -1,0 +1,11 @@
+name: HubGadgets
+main: me.sachal2406.hubgadgets.Main
+version: BETA 1.0
+authors: [sachal2406, mage1d]
+commands:
+   hubgadgets:
+     description: HubGadget main command.
+   hg:
+     description: An alias of the HubGadget main command.
+   gadgets:
+     description: An alias of the HubGadget main command.        
